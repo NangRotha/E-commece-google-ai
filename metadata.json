@@ -1,0 +1,6 @@
+{
+  "name": "AuraKhmer Commerce & Live Stock OS",
+  "description": "Full-stack online commerce platform with KHQR & COD checkout, automated stock deduction, real-time order tracking, customer loyalty rewards, and Google Sheets + Apps Script + FastAPI 3-project Vercel architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
